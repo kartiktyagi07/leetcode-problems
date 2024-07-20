@@ -40,6 +40,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
