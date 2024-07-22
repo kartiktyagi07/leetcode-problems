@@ -66,4 +66,5 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2365-percentage-of-letter-in-string) |
 <!---LeetCode Topics End-->
