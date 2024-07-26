@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
