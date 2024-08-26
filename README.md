@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
