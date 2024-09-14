@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
