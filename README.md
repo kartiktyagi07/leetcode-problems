@@ -30,6 +30,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
@@ -77,6 +78,7 @@
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
