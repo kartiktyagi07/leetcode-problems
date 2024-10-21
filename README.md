@@ -84,6 +84,7 @@
 | [0050-powx-n](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Counting
