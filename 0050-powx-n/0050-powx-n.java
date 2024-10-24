@@ -1,23 +1,14 @@
 class Solution {
     public double myPow(double x, int n) {
-        double ans=1.0;
-        long m=n;
-        if(m<0){
-            m=(-1)*m;
+        if(n==0) return 1.0;
+        if (n < 0) {
+            x = 1 / x; 
+            n = -n;    
         }
-        while(m>0){
-            if(m%2==1){
-                ans=ans*x;
-                m=m-1;
-            }else{
-                x=x*x;
-                m=m/2;
-            }
-                        
-        }
-        if(n<0){
-            ans=(double)(1.0)/(double)ans;
-        }
+        double half=myPow(x,n/2);
+        double ans=half*half;
+        if(n<0) ans=1/ans;
+        if(n%2==1) return x*ans;
         return ans;
     }
 }
