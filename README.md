@@ -188,6 +188,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
 ## Combinatorics
 |  |
 | ------- |
