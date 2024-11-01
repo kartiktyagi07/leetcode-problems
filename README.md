@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
 ## Combinatorics
 |  |
