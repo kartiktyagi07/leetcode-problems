@@ -52,6 +52,7 @@
 | [0091-decode-ways](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -109,6 +110,7 @@
 | [0136-single-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
