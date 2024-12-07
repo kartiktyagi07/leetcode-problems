@@ -22,6 +22,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2350-find-closest-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
