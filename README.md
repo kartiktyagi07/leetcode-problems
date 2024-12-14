@@ -30,6 +30,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
 ## Matrix
@@ -204,6 +205,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -248,10 +250,23 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
