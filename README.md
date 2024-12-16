@@ -33,6 +33,7 @@
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0342-power-of-four](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
