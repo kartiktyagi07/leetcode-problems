@@ -289,15 +289,18 @@
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
