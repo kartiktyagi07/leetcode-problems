@@ -21,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -73,6 +74,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -253,6 +255,7 @@
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
