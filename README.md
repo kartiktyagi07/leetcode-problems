@@ -27,6 +27,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -186,6 +187,7 @@
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 ## Greedy
 |  |
 | ------- |
