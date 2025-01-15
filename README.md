@@ -178,6 +178,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2509-minimize-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2509-minimize-xor) |
 ## String
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0055-jump-game) |
+| [2509-minimize-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
