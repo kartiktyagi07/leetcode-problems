@@ -353,6 +353,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -381,6 +382,7 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Quickselect
 |  |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
