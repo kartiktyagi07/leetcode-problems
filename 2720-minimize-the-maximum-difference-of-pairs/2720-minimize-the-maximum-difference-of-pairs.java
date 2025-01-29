@@ -8,7 +8,7 @@ class Solution {
         int r=nums[nums.length-1]-nums[0];
         while(l<r){
             int mid=l+(r-l)/2;
-            if(helper(nums,mid)>=p){
+            if(helper(nums,mid,p)){
                 r=mid;
             }else{
                 l=mid+1;
@@ -16,16 +16,16 @@ class Solution {
         }
         return l;
     }
-    public static int helper(int[] nums,int x){
-        int i=1;
+    public static boolean helper(int[] nums,int x,int p){
+        int i=0;
         int cnt=0;
-        while(i<nums.length){
-            if((nums[i]-nums[i-1])<=x){
+        while(i<nums.length-1){
+            if((nums[i+1]-nums[i])<=x){
                 i++;
                 cnt++;
             }
             i++;
         }
-        return cnt;
+        return cnt>=p;
     }
 }
