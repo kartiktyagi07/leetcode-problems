@@ -358,6 +358,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -367,6 +368,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -390,6 +392,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -421,6 +424,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
