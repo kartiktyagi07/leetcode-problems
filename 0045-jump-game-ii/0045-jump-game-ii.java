@@ -1,18 +1,21 @@
 class Solution {
-    public int jump(int[] num) {
-        int count = 0;           
-        int maxjump = 0;
-        int lastjump = 0;
-        for (int i = 0; i < num.length - 1; i++){
-            maxjump=Math.max(maxjump,i+num[i]);
-            if(lastjump==i){
+    public int jump(int[] arr) {
+        int N = arr.length;
+        if (N == 1)
+            return 0;
+        int max = 0;
+        int maxRange = 0;
+        int count = 0;
+        for (int i = 0; i < N; i++) {
+            max = Math.max(max, i + arr[i]);
+            if (maxRange == i) {
+                maxRange = max;
                 count++;
-                lastjump=maxjump;
-                if(maxjump>=num.length-1){
-                    break;
-                }
+            }
+            if (maxRange >= N - 1) {
+                return count;
             }
         }
-        return count;
+        return -1;
     }
 }
