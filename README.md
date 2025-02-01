@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -174,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
