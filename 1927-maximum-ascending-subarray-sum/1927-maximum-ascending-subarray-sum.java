@@ -1,21 +1,14 @@
 class Solution {
     public int maxAscendingSum(int[] nums) {
-        int sum=0;
-        int num=0;
-        int currSum=0;
-        for(int i=0;i<nums.length;i++){
-            num=nums[i];
-            currSum=nums[i];
-            for(int j=i+1;j<nums.length;j++){
-                if(num<nums[j]){
-                    currSum+=nums[j];
-                    num=nums[j];
-                }
-                else{
-                    break;
-                }
+        int sum=nums[0];
+        int currSum=nums[0];
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>nums[i-1]){
+                currSum+=nums[i];
+            }else{
+                currSum=nums[i];
             }
-            sum=Math.max(sum,currSum);
+            sum=Math.max(currSum,sum);
         }
         return sum;
     }
