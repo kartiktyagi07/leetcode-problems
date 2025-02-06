@@ -31,6 +31,7 @@
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
@@ -152,6 +153,7 @@
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
