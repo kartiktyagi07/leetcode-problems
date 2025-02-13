@@ -28,7 +28,7 @@ class Solution {
         for (long num : nums) {
             minHeap.offer(num);
         }
-        while (minHeap.size() > 1 && isGreater(minHeap, k)) {
+        while (minHeap.peek()<k) {
             long fval = minHeap.poll();
             long sval = minHeap.poll();
             long sum = fval * 2 + sval;
