@@ -7,24 +7,21 @@ class ProductOfNumbers {
     public void add(int num) {
         if(num==0){
             list.clear();
-        }else{
-            list.add(num);
+            return;
         }
-        
+        int prev=(list.size()==0)?1:list.get(list.size()-1);
+        list.add(prev*num);
     }
     
     public int getProduct(int k) {
         if (k > list.size()) {
             return 0;
         }
-        int prod=1;
-        for(int i=list.size()-k;i<list.size();i++){
-            prod=prod*list.get(i);
-            if(prod==0){
-                return 0;
-            }
+        else if(k==list.size()){
+            return list.get(list.size()-1);
+        }else{
+            return (list.get(list.size()-1)/list.get(list.size()-1-k));
         }
-        return prod;
     }
 }
 
