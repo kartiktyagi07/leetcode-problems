@@ -298,6 +298,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0838-design-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -485,6 +486,7 @@
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
