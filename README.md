@@ -43,6 +43,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2181-smallest-index-with-equal-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -166,6 +167,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -246,6 +248,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
@@ -352,6 +355,7 @@
 | [0051-n-queens](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
+| [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
