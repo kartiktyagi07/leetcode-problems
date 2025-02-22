@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +130,7 @@
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0344-reverse-string) |
@@ -142,6 +144,7 @@
 | [0056-merge-intervals](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
@@ -305,6 +308,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -326,6 +330,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
