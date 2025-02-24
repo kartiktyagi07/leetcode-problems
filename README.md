@@ -187,6 +187,7 @@
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0231-power-of-two) |
@@ -201,6 +202,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
