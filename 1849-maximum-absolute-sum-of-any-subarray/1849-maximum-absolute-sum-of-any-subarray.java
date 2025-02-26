@@ -17,26 +17,40 @@ class Solution {
         // OPTIMIZED APPROACH APPROACH 2
 
         // KADANES FOR MAXIMUM SUBARRAY
-        int maxSum=Integer.MIN_VALUE;
-        int currSum=0;
-        for(int i=0;i<nums.length;i++){
-            currSum+=nums[i];
-            maxSum=Math.max(maxSum,currSum);
-            if(currSum<=0){
-                currSum=0;
-            }
-        }
+        // int maxSum=Integer.MIN_VALUE;
+        // int currSum=0;
+        // for(int i=0;i<nums.length;i++){
+        //     currSum+=nums[i];
+        //     maxSum=Math.max(maxSum,currSum);
+        //     if(currSum<=0){
+        //         currSum=0;
+        //     }
+        // }
 
         // REVERSE KADANES FOR MINIMUM SUBARRAY
-        int minSum=Integer.MAX_VALUE;
-        int currminSum=0;
+        // int minSum=Integer.MAX_VALUE;
+        // int currminSum=0;
+        // for(int i=0;i<nums.length;i++){
+        //     currminSum+=nums[i];
+        //     minSum=Math.min(minSum,currminSum);
+        //     if(currminSum>=0){
+        //         currminSum=0;
+        //     }
+        // }
+        // return Math.max(Math.abs(maxSum),Math.abs(minSum));
+
+
+
+        // METHOD 3
+        int max=0;
+        int min=0;
+        int ans=0;
         for(int i=0;i<nums.length;i++){
-            currminSum+=nums[i];
-            minSum=Math.min(minSum,currminSum);
-            if(currminSum>=0){
-                currminSum=0;
-            }
+            max=Math.max(nums[i]+max,nums[i]);
+            min=Math.min(nums[i]+min,nums[i]);
+            ans=Math.max(ans,Math.max(Math.abs(max),Math.abs(min)));
         }
-        return Math.max(Math.abs(maxSum),Math.abs(minSum));
+        return ans;
+
     }
 }  
