@@ -210,6 +210,7 @@
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
