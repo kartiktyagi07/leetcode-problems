@@ -29,6 +29,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
+| [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
@@ -148,6 +149,7 @@
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -162,6 +164,7 @@
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
