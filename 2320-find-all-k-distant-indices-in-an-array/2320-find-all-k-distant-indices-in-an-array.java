@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
+        // Brute force TC:O(N^2) SC:O(N)
         ArrayList<Integer> list=new ArrayList<>();
         LinkedList<Integer> temp=new LinkedList<>();
         for(int i=0;i<nums.length;i++){
@@ -19,5 +20,12 @@ class Solution {
         }
         List<Integer> uniqueList = list.stream().distinct().collect(Collectors.toList());
         return uniqueList;
+
+
+
+
+
+        // Method 2 Two Pointer Approach TC:O() SC:O()
+        
     }
 }
