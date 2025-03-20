@@ -1,24 +1,25 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // Brute Force Approach
-        for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i]+nums[j]==target){
-                    return new int[]{i,j};
-                }
-            }
-        }
-        return new int[]{-1,-1};
-        // int[] ans = new int[2];
-        // for (int i = 0; i < nums.length; i++) {
-        //     while (i < nums.length) {
-        //         if (nums[i] == target - nums[i]) {
-        //             ans[0] = i;
-        //             ans[1] = j;
+        // Brute Force Approach TC:O(N^2) SC:O(1)
+
+        // for(int i=0;i<nums.length;i++){
+        //     for(int j=i+1;j<nums.length;j++){
+        //         if(nums[i]+nums[j]==target){
+        //             return new int[]{i,j};
         //         }
-        //         j++;
         //     }
         // }
-        // return ans;
+        // return new int[]{-1,-1};
+
+        // Method 2 Using Map Approach TC:O() SC:O() 
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            int req=target-nums[i];
+            if(map.containsKey(req)){
+                return new int[]{i,map.get(req)};
+            }
+            map.put(nums[i],i);
+        }
+        return new int[]{};
     }
 }
