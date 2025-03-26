@@ -49,6 +49,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2181-smallest-index-with-equal-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -96,6 +97,7 @@
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -181,6 +183,7 @@
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -234,6 +237,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
