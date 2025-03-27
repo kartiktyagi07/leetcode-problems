@@ -28,6 +28,7 @@ class Solution {
 
 
     // method 2 optimized approach 
+    // TC:O(N) SC:O(1)
     public int minimumIndex(List<Integer> nums) {
         // Find global majority element by moore voting algo
         int ele=0;
