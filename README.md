@@ -159,6 +159,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -291,6 +292,7 @@
 | [0091-decode-ways](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
