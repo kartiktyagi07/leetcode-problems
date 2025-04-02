@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -125,6 +126,7 @@
 | [0169-majority-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -255,6 +257,7 @@
 | [0069-sqrtx](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -461,6 +465,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -512,10 +517,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
