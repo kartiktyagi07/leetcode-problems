@@ -1,5 +1,6 @@
 class Solution {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
+        // good question for basic understanding of countsort
         int max=Integer.MIN_VALUE;
         for(int x:arr1){
             if(x>max){
