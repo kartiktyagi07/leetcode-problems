@@ -47,6 +47,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1656-count-good-triplets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -500,6 +501,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 ## Queue
 |  |
