@@ -201,6 +201,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -229,6 +230,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
@@ -329,6 +331,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
