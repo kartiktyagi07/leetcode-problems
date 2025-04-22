@@ -1,6 +1,7 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
         // With using extra space TC:O(N) SC:O(N)
+
         // ArrayList<Integer> elist=new ArrayList<>();
         // ArrayList<Integer> olist=new ArrayList<>();
         // for(int x:nums){
@@ -22,10 +23,8 @@ class Solution {
         // return nums;
 
 
-
-
-
         // Method 2 TC:O(N) SC:O(1)
+        
         int i=0;
         int j=1;
         while(i<nums.length && j<nums.length){
