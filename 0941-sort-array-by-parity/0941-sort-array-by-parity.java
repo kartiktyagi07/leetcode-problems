@@ -16,19 +16,34 @@ class Solution {
         // return ans;
 
         // One pass approach
+        // int i = 0;
+        // int j = nums.length - 1;
+        // while (i < j) {
+        //     if(nums[i]%2!=0){
+        //         if(nums[j]%2!=0){
+        //             j--;
+        //         }else{
+        //             swap(nums,i,j);
+        //             i++;
+        //             j--;
+        //         }
+        //     }else{
+        //         i++;
+        //     }
+        // }
+        // return nums;
+
         int i = 0;
         int j = nums.length - 1;
         while (i < j) {
-            if(nums[i]%2!=0){
-                if(nums[j]%2!=0){
-                    j--;
-                }else{
-                    swap(nums,i,j);
-                    i++;
-                    j--;
-                }
-            }else{
+            if(nums[i]%2==0){
                 i++;
+            }else if(nums[j]%2!=0){
+                j--;
+            }else{
+                swap(nums,i,j);
+                i++;
+                j--;
             }
         }
         return nums;
