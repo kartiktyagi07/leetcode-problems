@@ -245,6 +245,7 @@
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
@@ -281,6 +282,7 @@
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
