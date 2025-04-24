@@ -28,7 +28,7 @@ class Solution {
                 nums[l]=temp;
                 l++;
             }
-        } 
+        }
         return nums;
     }
 }
