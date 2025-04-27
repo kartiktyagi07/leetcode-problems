@@ -44,6 +44,7 @@
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
