@@ -107,6 +107,7 @@
 | [3429-special-array-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
 | ------- |
