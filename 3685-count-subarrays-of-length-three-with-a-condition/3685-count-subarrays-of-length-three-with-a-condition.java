@@ -22,10 +22,8 @@ class Solution {
         int cnt=0;
         int n=nums.length;
         for(int i=0;i<n-2;i++){
-            int first=nums[i];
-            int second=nums[i+1];
-            int third=nums[i+2];
-            if((first+third)==(double)second/2){
+            int sum=nums[i]+nums[i+2];
+            if(nums[i+1]==2*sum){
                 cnt++;
             }
         }
