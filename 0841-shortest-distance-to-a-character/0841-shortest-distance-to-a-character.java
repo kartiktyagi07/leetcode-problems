@@ -17,24 +17,47 @@ class Solution {
         // }
         // return ans;
 
+        
+
         // TC:O(N+M) SC:O(N+M)
+        // int n=s.length();
+        // int[] ans=new int[n];
+        // LinkedList<Integer> list=new LinkedList<>();
+        // for(int i=0;i<n;i++){
+        //     if(s.charAt(i)==c){
+        //         list.add(i);
+        //     }
+        // }
+        // int j=0;
+        // int cnt=0;
+        // for(int i=0;i<n;i++){
+        //     while(j<list.size()-1 && Math.abs(list.get(j+1)-i)<=Math.abs(list.get(j)-i)){
+        //         j++;
+        //     }
+        //     ans[i]=Math.abs(list.get(j)-i);
+        // }
+        // return ans;
+
+
+
+
+        // TC:O(N) SC:O(N)
         int n=s.length();
         int[] ans=new int[n];
-        LinkedList<Integer> list=new LinkedList<>();
+        // Left to right pass
+        int prev=Integer.MIN_VALUE/2;
         for(int i=0;i<n;i++){
-            if(s.charAt(i)==c){
-                list.add(i);
-            }
+            if(s.charAt(i)==c) prev=i;
+            ans[i]=i-prev;
         }
-        int j=0;
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            while(j<list.size()-1 && Math.abs(list.get(j+1)-i)<=Math.abs(list.get(j)-i)){
-                j++;
-            }
-            ans[i]=Math.abs(list.get(j)-i);
+        // Right to left pass
+        prev=Integer.MAX_VALUE/2;
+        for(int i=n-1;i>=0;i--){
+            if(s.charAt(i)==c) prev=i;
+            ans[i]=Math.min(ans[i],prev-i);
         }
         return ans;
+
     }
     public static int findMin(ArrayList<Integer> list,int j){
         int min=Integer.MAX_VALUE;
