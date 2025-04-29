@@ -40,6 +40,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -198,6 +199,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -373,6 +375,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
