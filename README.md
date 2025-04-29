@@ -202,6 +202,7 @@
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -377,6 +378,7 @@
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1894-merge-strings-alternately](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
