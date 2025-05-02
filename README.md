@@ -96,6 +96,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -562,6 +563,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2714-left-and-right-sum-differences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
