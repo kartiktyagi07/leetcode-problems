@@ -113,6 +113,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -147,6 +148,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -327,6 +329,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -553,6 +556,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0062-unique-paths) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -564,6 +568,7 @@
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
