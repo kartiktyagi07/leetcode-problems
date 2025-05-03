@@ -32,36 +32,35 @@ class Solution {
 
 
 
-            // METHOD 2 PRE COMPUTE THE RESULT IN A BOOLEAN ARRAY
+    // METHOD 2 PRE COMPUTE THE RESULT IN A BOOLEAN ARRAY
     public int[] vowelStrings(String[] words, int[][] queries){
-        int n=words.length;
         int q=queries.length;
         int[] ans=new int[q];
+        int n=words.length;
         ArrayList<Character> list=new ArrayList<>();
         list.add('a');
         list.add('e');
         list.add('i');
         list.add('o');
         list.add('u');
-        boolean vowels[]=new boolean[n];
+        boolean[] vowel=new boolean[n];
         for(int i=0;i<n;i++){
-            String str=words[i];
-            char s=str.charAt(0);
-            char e=str.charAt(str.length()-1);
-            vowels[i]=list.contains(s) && list.contains(e);
+            char first=words[i].charAt(0);
+            char last=words[i].charAt(words[i].length()-1);
+            vowel[i]=list.contains(first) && list.contains(last); 
         }
-        int[] prefix=new int[n];
-        prefix[0]=vowels[0]?1:0;
+        int[] prefixSum=new int[n];
+        prefixSum[0]=vowel[0]?1:0;
         for(int i=1;i<n;i++){
-            prefix[i]=prefix[i-1]+(vowels[i]?1:0);
+            prefixSum[i]=prefixSum[i-1] + (vowel[i]?1:0);
         }
         for(int i=0;i<q;i++){
-            int startIdx=queries[i][0];
-            int endIdx=queries[i][1];
-            if(startIdx==0){
-                ans[i]=prefix[endIdx];
+            int start=queries[i][0];
+            int end=queries[i][1];
+            if(start==0){
+                ans[i]=prefixSum[end];
             }else{
-                ans[i]=prefix[endIdx]-prefix[startIdx-1];
+                ans[i]=prefixSum[end]-prefixSum[start-1];
             }
         }
         return ans;
