@@ -50,6 +50,7 @@
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
+| [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
@@ -575,6 +576,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
