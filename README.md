@@ -73,6 +73,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -146,6 +147,7 @@
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
