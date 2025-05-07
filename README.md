@@ -46,6 +46,7 @@
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
+| [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
@@ -188,6 +189,7 @@
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -218,6 +220,7 @@
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -609,6 +612,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 ## Queue
