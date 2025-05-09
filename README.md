@@ -98,6 +98,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -197,6 +198,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -602,6 +604,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2358-number-of-ways-to-split-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
+| [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
