@@ -34,6 +34,7 @@
 | [0260-single-number-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -143,6 +144,7 @@
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -603,6 +605,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -759,6 +762,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2434-design-a-number-container-system) |
