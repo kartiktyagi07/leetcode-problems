@@ -57,6 +57,7 @@
 | [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
