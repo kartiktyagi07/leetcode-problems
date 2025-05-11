@@ -22,7 +22,21 @@ class NumMatrix {
 
 
         // Optimized Approach using prefix sum array
-        return mat[row2+1][col2+1] - mat[row1][col2+1] -mat[row2+1][col1] + mat[row1][col1]; 
+        int sum=0;
+         
+        // Sum of the rectangle from (0,0) to (row2,col2)
+        sum = mat[row2 + 1][col2 + 1];
+
+        // Subtract the rectangle from (0,0) to (row1-1,col2), which includes the upper part outside the desired submatrix
+        sum -= mat[row1][col2 + 1];
+
+        // Subtract the rectangle from (0,0) to (row2,col1-1), which includes the left part outside the desired submatrix
+        sum -= mat[row2 + 1][col1];
+
+        // Add back the overlap that was subtracted twice, which is the rectangle from (0,0) to (row1-1,col1-1)
+        sum += mat[row1][col1];
+        
+        return sum;
     }
 }
 
