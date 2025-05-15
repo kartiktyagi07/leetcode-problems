@@ -123,6 +123,7 @@
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -208,6 +209,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -465,6 +467,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -491,6 +494,7 @@
 | [2509-minimize-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
