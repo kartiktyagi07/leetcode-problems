@@ -101,6 +101,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -160,6 +161,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
