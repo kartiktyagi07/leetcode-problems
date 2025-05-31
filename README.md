@@ -132,6 +132,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -352,6 +353,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
