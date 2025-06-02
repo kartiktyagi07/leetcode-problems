@@ -340,6 +340,7 @@
 | [1500-count-largest-group](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1848-sum-of-unique-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -474,6 +475,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -553,6 +555,7 @@
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
