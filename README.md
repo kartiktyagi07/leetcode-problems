@@ -61,6 +61,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
+| [1319-unique-number-of-occurrences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -334,6 +335,7 @@
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1319-unique-number-of-occurrences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
