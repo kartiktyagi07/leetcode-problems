@@ -479,6 +479,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -539,6 +540,7 @@
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
