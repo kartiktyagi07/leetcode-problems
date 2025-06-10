@@ -370,6 +370,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -507,6 +508,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -576,6 +578,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
