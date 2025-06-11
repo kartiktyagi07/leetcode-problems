@@ -336,6 +336,7 @@
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
+| [0889-buddy-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
@@ -474,6 +475,7 @@
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0889-buddy-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
