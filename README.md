@@ -33,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -293,6 +294,7 @@
 | [0217-contains-duplicate](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -634,6 +636,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
