@@ -33,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -417,6 +418,7 @@
 | [0069-sqrtx](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
