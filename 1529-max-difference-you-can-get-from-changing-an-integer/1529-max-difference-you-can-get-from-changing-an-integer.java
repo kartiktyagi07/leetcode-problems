@@ -14,14 +14,12 @@ class Solution {
         for(int i=0;i<sb2.length();i++){
             char ch=sb2.charAt(i);
             if (i == 0) {
-                // First digit: Replace it with '1' if it's not already '1'
                 if (ch != '1') {
                     sb2 = sb2.replace(ch, '1');
                     break;
                 }
             } else {
-                // Other digits: Replace with '0' if not '0' or '1'
-                if (ch != '0' && ch != '1') {
+                if (ch != '0' && ch!='1') {
                     sb2 = sb2.replace(ch, '0');
                     break;
                 }
