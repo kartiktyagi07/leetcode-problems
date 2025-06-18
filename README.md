@@ -417,6 +417,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -670,6 +671,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0062-unique-paths) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
