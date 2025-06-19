@@ -107,6 +107,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2388-replace-elements-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -313,6 +314,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -538,6 +540,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
