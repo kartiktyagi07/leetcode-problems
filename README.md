@@ -54,6 +54,7 @@
 | [0665-non-decreasing-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0665-non-decreasing-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
@@ -573,6 +574,7 @@
 | [0155-min-stack](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -752,6 +754,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
