@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
@@ -167,6 +168,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -340,6 +342,7 @@
 | [0001-two-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
