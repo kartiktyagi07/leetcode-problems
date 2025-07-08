@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
@@ -222,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0055-jump-game) |
@@ -254,6 +256,7 @@
 | [0027-remove-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -576,6 +579,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -758,6 +762,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0739-daily-temperatures) |
