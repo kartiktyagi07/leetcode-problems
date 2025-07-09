@@ -1,15 +1,28 @@
 class Solution {
-    public int maxProfit(int[] p) {
-        // In this question we need to track the day of minimum buying and maxmimum selling.
-        // if you selling on ith day then you must buy it on the minimum price from start to (i-1) to maximize profit
-        int cost=0;
-        int profit=0;
-        int min=p[0];
-        for(int i=1;i<p.length;i++){
-            cost=p[i]-min;
-            profit=Math.max(profit,cost);
-            min=Math.min(min,p[i]);
+    public int maxProfit(int[] prices) {
+        // Brute Force using nested loops
+
+        // int ans=0;
+        // int n=prices.length;
+        // for(int i=0;i<n;i++){
+        //     for(int j=i+1;j<n;j++){
+        //         int profit=prices[j]-prices[i];
+        //         ans=Math.max(ans,profit);
+        //     }
+        // }
+        // return ans;
+
+
+
+        // Optimized Approach
+        int ans=0;
+        int n=prices.length;
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<n;i++){
+            min=Math.min(min,prices[i]);
+            ans=Math.max(ans,prices[i]-min);
         }
-        return profit;
+        return ans;
+
     }
 }
