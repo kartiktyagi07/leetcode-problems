@@ -883,4 +883,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
