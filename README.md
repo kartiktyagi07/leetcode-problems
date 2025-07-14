@@ -430,6 +430,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -643,6 +644,7 @@
 | [0328-odd-even-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
