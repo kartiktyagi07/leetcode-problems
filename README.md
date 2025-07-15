@@ -193,6 +193,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -413,6 +414,7 @@
 | [0009-palindrome-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0062-unique-paths) |
@@ -503,6 +505,7 @@
 | [0020-valid-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0125-valid-palindrome) |
