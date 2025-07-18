@@ -43,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0274-h-index) |
@@ -662,6 +663,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
@@ -757,6 +759,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -776,6 +779,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -786,6 +790,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
