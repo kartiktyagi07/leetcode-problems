@@ -9,14 +9,14 @@ class Solution {
             int tar=-nums[i];
             for(int j=i+1;j<n;j++){
                 int comp=tar-nums[j];
-                if(map.containskey(comp)){
-                    List<Integer> temp=new ArrayList<>(nums[i],comp,nums[j]);
+                if(map.containsKey(comp)){
+                    List<Integer> temp=Arrays.asList(nums[i],comp,nums[j]);
                     Collections.sort(temp);
                     ans.add(temp);
                 }
                 map.put(nums[j],j);
             }
         }
-        return new List<>(ans);
+        return new ArrayList<>(ans);
     }
 }
