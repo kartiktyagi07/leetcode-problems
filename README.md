@@ -373,6 +373,7 @@
 | [0242-valid-anagram](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -529,6 +530,7 @@
 | [0344-reverse-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0556-next-greater-element-iii) |
@@ -765,6 +767,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
