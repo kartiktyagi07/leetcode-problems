@@ -94,6 +94,7 @@
 | [1656-count-good-triplets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -390,6 +391,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1500-count-largest-group) |
+| [1813-maximum-erasure-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -769,6 +771,7 @@
 | [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1813-maximum-erasure-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
