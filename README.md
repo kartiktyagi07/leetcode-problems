@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -739,6 +741,7 @@
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 ## Combinatorics
