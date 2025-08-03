@@ -1,49 +1,58 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ans=new ArrayList<>();
-        int[][] arr=new int[n][n];
-        paths(ans,arr,new ArrayList<>(),0);
+        List<List<String>> ans = new ArrayList<>(); // Final list to store all valid board configurations
+        int[][] mat = new int[n][n]; // Chessboard matrix to keep track of queen placements (1 = Queen, 0 = Empty)
+        backtrack(mat, ans, new ArrayList<>(), 0, n); // Start backtracking from row 0
         return ans;
     }
-    public static void paths(List<List<String>> ans,int[][] arr,List<String> temp,int row){
-        if(row==arr.length){
-            ans.add(new ArrayList<>(temp));
+
+    public void backtrack(int[][] mat, List<List<String>> ans, List<String> temp, int row, int n) {
+        // Base case: all rows are filled with queens
+        if (row == n) {
+            ans.add(new ArrayList<>(temp)); // Add current configuration to the answer
             return;
         }
-        StringBuilder sb=new StringBuilder();
-        for(int col=0;col<arr.length;col++){
-            if(Safe(arr,row,col)){
-                arr[row][col]=1;
-                for (int j = 0; j < arr.length; j++) {
-                    sb.append(arr[row][j] == 1 ? 'Q' : '.');
+
+        StringBuilder sb = new StringBuilder(); // Used to build a row string like "..Q."
+        for (int col = 0; col < n; col++) {
+            if (isSafe(mat, row, col)) {
+                mat[row][col] = 1; // Place queen at (row, col)
+
+                // Convert current row into a string and add to temp configuration
+                for (int j = 0; j < n; j++) {
+                    sb.append(mat[row][j] == 1 ? 'Q' : '.');
                 }
                 temp.add(sb.toString());
-                paths(ans,arr,temp,row+1);
+
+                // Move to the next row
+                backtrack(mat, ans, temp, row + 1, n);
+
+                // Backtrack: remove queen and the corresponding row string
                 temp.remove(temp.size() - 1);
-                arr[row][col]=0;
+                mat[row][col] = 0;
             }
+
+            // Clear the StringBuilder before next column trial
             sb.setLength(0);
         }
     }
-    public static boolean Safe(int[][] arr,int row,int col){
-        // vertical condition
-        for(int i=row-1,j=col;i>=0;i--){
-            if(arr[i][j]==1){
-                return false;
-            }
+
+    public boolean isSafe(int[][] mat, int row, int col) {
+        // Check vertical upward for queen
+        for (int i = row - 1, j = col; i >= 0; i--) {
+            if (mat[i][j] == 1) return false;
         }
-        // left diagonal condition
-        for(int i=row-1,j=col-1;i>=0 && j>=0;i--,j--){
-            if(arr[i][j]==1){
-                return false;
-            }
+
+        // Check upper-left diagonal
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+            if (mat[i][j] == 1) return false;
         }
-        // right diagonal condition
-        for(int i=row-1,j=col+1;i>=0 && j<arr.length;i--,j++){
-            if(arr[i][j]==1){
-                return false;
-            }
+
+        // Check upper-right diagonal
+        for (int i = row - 1, j = col + 1; i >= 0 && j < mat.length; i--, j++) {
+            if (mat[i][j] == 1) return false;
         }
-        return true;
+
+        return true; // Safe to place queen
     }
 }
