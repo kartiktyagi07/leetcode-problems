@@ -250,6 +250,7 @@
 | [0091-decode-ways](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
@@ -539,6 +540,7 @@
 | [0049-group-anagrams](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -752,6 +754,7 @@
 | [0052-n-queens-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
 ## Combinatorics
