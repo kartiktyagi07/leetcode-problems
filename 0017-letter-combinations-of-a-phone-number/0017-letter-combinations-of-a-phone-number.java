@@ -1,27 +1,33 @@
 class Solution {
-    static String[] words={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-    public ArrayList<String> letterCombinations(String str) {
-         if(str.length()==0){
-            ArrayList<String> bref=new ArrayList<>();
-            // bref.add("");
-            return bref;
+    public final HashMap<Character,String> map=new HashMap<>();
+    public Solution() {
+        map.put('2', "abc");
+        map.put('3', "def");
+        map.put('4', "ghi");
+        map.put('5', "jkl");
+        map.put('6', "mno");
+        map.put('7', "pqrs");
+        map.put('8', "tuv");
+        map.put('9', "wxyz");
+    }
+    public List<String> letterCombinations(String digits) {
+        if(digits==null || digits.isEmpty()){
+            return new ArrayList<>();
         }
-        char ch=str.charAt(0);
-        String rstr=str.substring(1);
-        ArrayList<String> rres=letterCombinations(rstr);
-        ArrayList<String> ans=new ArrayList<>();
-        String newstr=words[ch-'0'];
-        for(int i=0;i<newstr.length();i++){
-            char newch=newstr.charAt(i);
-            for(String resstr:rres){
-                ans.add(newch+resstr);
-            }
-        }
-        if (rres.isEmpty()) {
-            for (char newch : newstr.toCharArray()) {
-                ans.add(String.valueOf(newch));
-            }
-        }
+        List<String> ans=new ArrayList<>();
+        helper(digits,ans,0,new StringBuilder());
         return ans;
+    }
+    public void helper(String digits,List<String> ans,int idx,StringBuilder sb){
+        if(idx==digits.length()){
+            ans.add(sb.toString());
+            return;
+        }
+        String letter=map.get(digits.charAt(idx));
+        for(char ch:letter.toCharArray()){
+            sb.append(ch);
+            helper(digits,ans,idx+1,sb);
+            sb.deleteCharAt(sb.length()-1);
+        }
     }
 }
