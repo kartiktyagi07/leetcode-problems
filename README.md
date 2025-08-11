@@ -139,6 +139,7 @@
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [2529-range-product-queries-of-powers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -524,6 +525,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -780,6 +782,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
+| [2529-range-product-queries-of-powers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
