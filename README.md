@@ -581,6 +581,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
