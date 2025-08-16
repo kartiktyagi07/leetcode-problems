@@ -461,6 +461,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -614,6 +615,7 @@
 | [0179-largest-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
+| [1448-maximum-69-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
