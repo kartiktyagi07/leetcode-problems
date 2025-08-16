@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0042-trapping-rain-water) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -373,6 +375,7 @@
 | [0013-roman-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -751,6 +754,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0046-permutations) |
