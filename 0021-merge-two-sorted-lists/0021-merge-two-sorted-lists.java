@@ -1,55 +1,40 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * int val;
+ * ListNode next;
+ * ListNode() {}
+ * ListNode(int val) { this.val = val; }
+ * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
-    ListNode head;
-    ListNode tail;
-    int size;
-
-    public Solution() {
-        head = null;
-        tail = null;
-        size = 0;
-    }
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        while(list1!=null && list2!=null){
-            int val1=list1.val;
-            int val2=list2.val;
-            if(val1>=val2){
-                addAtTail(val2);
-                list2=list2.next;
-            }else{
-                addAtTail(val1);
-                list1=list1.next;
+        // Create a dummy node to serve as the new head of the merged list.
+        ListNode dummy = new ListNode(-1);
+        // 'current' pointer to build the new list.
+        ListNode current = dummy;
+
+        // Iterate while both lists have nodes to compare.
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                current.next = list1;
+                list1 = list1.next;
+            } else {
+                current.next = list2;
+                list2 = list2.next;
             }
+            current = current.next;
         }
-        while(list1!=null){
-            addAtTail(list1.val);
-            list1=list1.next;
+
+        // Attach the remaining nodes from the non-empty list.
+        if (list1 != null) {
+            current.next = list1;
+        } else if (list2 != null) {
+            current.next = list2;
         }
-        while(list2!=null){
-            addAtTail(list2.val);
-            list2=list2.next;
-        }
-        return head;
-    }
-    public void addAtTail(int val) {
-        ListNode temp=new ListNode();
-        temp.val=val;
-        temp.next=null;
-        if(size==0){
-            head=tail=temp;
-        }else{
-            tail.next=temp;
-            tail=temp;
-        }
-        size++;
+
+        // The merged list starts from the next node of the dummy.
+        return dummy.next;
     }
 }
