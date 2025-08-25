@@ -279,6 +279,7 @@
 | [0015-3sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0031-next-permutation) |
@@ -693,6 +694,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0143-reorder-list) |
