@@ -64,6 +64,7 @@
 | [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0665-non-decreasing-array) |
@@ -195,6 +196,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1310-watering-plants) |
