@@ -173,6 +173,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3330-modify-the-matrix) |
