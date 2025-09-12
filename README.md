@@ -502,6 +502,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -626,6 +627,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
@@ -976,6 +978,7 @@
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2787-movement-of-robots](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2787-movement-of-robots) |
+| [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1017,4 +1020,8 @@
 | [1258-article-views-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
