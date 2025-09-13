@@ -455,6 +455,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -632,6 +633,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -718,6 +720,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
