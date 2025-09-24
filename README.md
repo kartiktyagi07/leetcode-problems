@@ -932,6 +932,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -945,6 +946,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1558-course-schedule-iv) |
@@ -986,6 +988,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
