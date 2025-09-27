@@ -74,6 +74,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0830-largest-triangle-area](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
@@ -492,6 +493,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0556-next-greater-element-iii) |
+| [0830-largest-triangle-area](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1085,4 +1087,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
