@@ -236,6 +236,7 @@
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -510,6 +511,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
