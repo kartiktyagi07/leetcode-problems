@@ -87,6 +87,7 @@
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
@@ -376,6 +377,7 @@
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -674,6 +676,7 @@
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1448-maximum-69-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -732,6 +735,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1364-tuple-with-same-product) |
