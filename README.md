@@ -68,6 +68,7 @@
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0665-non-decreasing-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0665-non-decreasing-array) |
@@ -429,6 +430,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
@@ -870,6 +872,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1206-corporate-flight-bookings) |
