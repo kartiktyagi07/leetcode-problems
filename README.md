@@ -138,6 +138,7 @@
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -242,6 +243,7 @@
 | [2228-watering-plants-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -391,6 +393,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -459,6 +462,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2388-replace-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2434-design-a-number-container-system) |
