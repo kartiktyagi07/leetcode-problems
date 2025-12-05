@@ -202,6 +202,7 @@
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -548,6 +549,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -917,6 +919,7 @@
 | [2787-movement-of-robots](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2787-movement-of-robots) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
