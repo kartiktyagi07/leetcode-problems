@@ -536,6 +536,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -947,6 +948,7 @@
 | [0204-count-primes](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2998-count-symmetric-integers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2998-count-symmetric-integers) |
