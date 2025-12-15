@@ -129,6 +129,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -297,6 +298,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2504-find-all-good-indices) |
@@ -537,6 +539,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
