@@ -91,6 +91,7 @@
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -459,6 +460,7 @@
 | [0889-buddy-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1217-relative-sort-array) |
