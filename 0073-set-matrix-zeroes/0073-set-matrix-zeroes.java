@@ -1,24 +1,53 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        // Brute Force
-        Set<Integer> row = new HashSet<>();
-        Set<Integer> col = new HashSet<>();
         int m = matrix.length;
         int n = matrix[0].length;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        boolean firstRowZero = false;
+        boolean firstColZero = false;
+        // Check first row for Zero
+        for (int j = 0; j < n; j++) {
+            if (matrix[0][j] == 0) {
+                firstRowZero = true;
+                break;
+            }
+        }
+        // Check first col for zero
+        for (int i = 0; i < m; i++) {
+            if(matrix[i][0] == 0){
+                firstColZero = true;
+                break;
+            }
+        }
+        // Mark rowsa and column
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
                 if(matrix[i][j] == 0){
-                    row.add(i);
-                    col.add(j);
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(row.contains(i) || col.contains(j)){
+        // Apply Zeroes
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(matrix[i][0] == 0 || matrix[0][j] == 0){
                     matrix[i][j] = 0;
                 }
             }
         }
+        // First Row
+        if(firstRowZero){
+            for(int j=0;j<n;j++){
+                matrix[0][j] = 0;
+            }
+        }
+        // First Col
+        if(firstColZero){
+            for(int i=0;i<m;i++){
+                matrix[i][0] = 0;
+            }
+        }
+
     }
+
 }
