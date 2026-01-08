@@ -1,40 +1,46 @@
 class Solution {
-    public void nextPermutation(int[] arr) {
-        int idx=-1;
-        // finding the breaking point
-        for(int i=arr.length-2;i>=0;i--){
-            if(arr[i]<arr[i+1]){
-                idx=i;
+    public void nextPermutation(int[] nums) {
+        int n = nums.length;
+        int idx = -1;
+
+        // Find the pivot/breaking index
+        for(int i=n-2;i>=0;i--){
+            if(nums[i] < nums[i+1]){
+                idx = i;
                 break;
             }
         }
-        // checking if we have a breaking point or not
-        if(idx==-1){
-            arrange(arr,0,arr.length-1);
+
+        // Checking if we have a breaking point or not
+        if(idx == -1){
+            /* That means we dont find a breaking index that means array is 
+            already in the greatest possible permutation so simply return minimum possible
+            permutation i.e reverse the array */
+            reverse(nums,0,n-1);
             return;
         }
-        // finding the samllest from right side of break point to perform swapping
-        for(int j=arr.length-1;j>=idx;j--){
-            if(arr[j]>arr[idx]){
-                swap(arr,idx,j);
+
+        // find the smallest from right side for swapping
+        for(int i=n-1;i>=idx;i--){
+            if(nums[i] > nums[idx]){
+                swap(nums,i,idx);
                 break;
             }
         }
-        // arrange the right portion in minimum possible order
-        arrange(arr,idx+1,arr.length-1);
+
+        // Arrange the right portion in the smallest possible permutation
+        reverse(nums,idx+1,n-1);
     }
-    // function to performing swapping
-    public void swap(int[] arr,int start,int end){
-        int temp=arr[start];
-        arr[start]=arr[end];
-        arr[end]=temp;
+    public void swap(int[] nums,int s,int e){
+        int temp = nums[s];
+        nums[s] = nums[e];
+        nums[e] = temp;
     }
-    // function to arrange 
-    public void arrange(int[] arr,int start,int end){
-        while(start<=end){
-            swap(arr,start,end);
-            start++;
-            end--;
+    public void reverse(int[] nums,int s,int e){
+        while(s <= e){
+            swap(nums,s,e);
+            s++;
+            e--;
         }
     }
 }
