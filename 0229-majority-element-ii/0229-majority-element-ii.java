@@ -1,45 +1,39 @@
 class Solution {
-    public List<Integer> majorityElement(int[] arr) {
-        ArrayList<Integer> ans=new ArrayList<>();
-        int val1=arr[0];
-        int count1=1;
-        int val2=arr[0];
-        int count2=0;
-        int i=1;
-        while(i<arr.length){
-            if(arr[i]==val1){
-                count1++;
-            }else if(arr[i]==val2){
-                count2++;
+    public List<Integer> majorityElement(int[] nums) {
+        int n = nums.length;
+        List<Integer> list = new ArrayList<>();
+        // Finding potential answers
+        int cand1=0,cand2=0;
+        int cnt1=0,cnt2=0;
+        for(int i:nums){
+            if(i == cand1){
+                cnt1++;
+            }else if(i == cand2){
+                cnt2++;
+            }else if(cnt1 == 0){
+                cand1 = i;
+                cnt1 = 1;
+            }else if(cnt2 == 0){
+                cand2 = i;
+                cnt2 = 1;
             }else{
-                if(count1==0){
-                    val1=arr[i];
-                    count1+=1;
-                }else if(count2==0){
-                    val2=arr[i];
-                    count2+=1;
-                }else{
-                    count1--;
-                    count2--;
-                }
-            }
-            i++;
-        }
-        if(Func(arr,val1)==true){
-            ans.add(val1);
-        }
-        if(val2!=val1&&Func(arr,val2)==true){
-            ans.add(val2);
-        }
-        return ans;
-    }
-    public static boolean Func(int[] arr,int val){
-        int count=0;
-        for(int ele:arr){
-            if(ele==val){
-                count++;
+                cnt1--;
+                cnt2--;
             }
         }
-        return count>arr.length/3;
+        // Veryfying the potential answers
+        cnt1 = 0;
+        cnt2 = 0;
+        for(int i:nums){
+            if(i == cand1){
+                cnt1++;
+            }else if(i == cand2){
+                cnt2++;
+            }
+        }
+        // Filling the answers
+        if(cnt1 > n/3) list.add(cand1);
+        if(cnt2 > n/3) list.add(cand2);
+        return list; 
     }
 }
