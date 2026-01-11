@@ -90,6 +90,7 @@
 | [0883-car-fleet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -473,6 +474,7 @@
 | [0692-top-k-frequent-words](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0889-buddy-strings) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -937,6 +939,7 @@
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -970,6 +973,7 @@
 | [0239-sliding-window-maximum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
