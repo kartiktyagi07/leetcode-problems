@@ -79,6 +79,7 @@
 | [0503-next-greater-element-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
@@ -612,6 +613,7 @@
 | [0275-h-index-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
