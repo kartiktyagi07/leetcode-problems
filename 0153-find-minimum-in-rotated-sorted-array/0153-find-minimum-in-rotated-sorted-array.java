@@ -1,16 +1,16 @@
 class Solution {
     public int findMin(int[] nums) {
-        int n=nums.length;
-        int s=0;
-        int e=n-1;
-        while(s<e){
-            int mid=(s+e)/2;
-            if(nums[mid]<nums[e]){
-                e=mid;
+        int n = nums.length;
+        int i = 0;
+        int j = n - 1;
+        while (i < j) {
+            int mid = i + (j - i) / 2;
+            if(nums[mid] > nums[j]){
+                i = mid + 1;
             }else{
-                s=mid+1;
+                j = mid;
             }
         }
-        return nums[s];
+        return nums[i];
     }
 }
