@@ -92,6 +92,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0907-koko-eating-bananas) |
@@ -617,6 +618,7 @@
 | [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
