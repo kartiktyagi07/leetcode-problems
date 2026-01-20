@@ -216,6 +216,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -660,6 +661,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kartiktyagi07/leetcode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
