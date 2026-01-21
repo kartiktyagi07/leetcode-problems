@@ -69,6 +69,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -314,6 +315,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -618,6 +620,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
@@ -760,6 +763,7 @@
 | [0055-jump-game](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
@@ -956,6 +960,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
