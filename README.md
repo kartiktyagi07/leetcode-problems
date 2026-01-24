@@ -140,6 +140,7 @@
 | [1813-maximum-erasure-value](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -385,6 +386,7 @@
 | [0979-di-string-match](https://github.com/kartiktyagi07/leetcode-problems/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -437,6 +439,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -779,6 +782,7 @@
 | [1448-maximum-69-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2290-removing-minimum-number-of-magic-beans) |
