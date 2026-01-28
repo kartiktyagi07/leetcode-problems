@@ -10,7 +10,9 @@ class Solution {
                 if(mapS.get(ch1) != ch2) return false;
             }
             if(mapT.containsKey(ch2)){
-                if(mapT.get(ch2) != ch1) return false;
+                if(mapT.get(ch2) != ch1){
+                    return false;
+                }
             }
             mapS.put(ch1,ch2);
             mapT.put(ch2,ch1);
