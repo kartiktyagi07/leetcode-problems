@@ -335,6 +335,7 @@
 | [1013-fibonacci-number](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -737,6 +738,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -827,6 +829,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kartiktyagi07/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/kartiktyagi07/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
